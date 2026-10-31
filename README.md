@@ -1,2 +1,2 @@
 # Cuaderno-App-de-Finanzas
-personal finanzas app for nicaraguan people made in react, with income, expenses,and goals. 
+Personal finance app for Nicaraguan people made in React, with income, expenses, and goals. 
